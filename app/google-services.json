@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699336966358",
+    "firebase_url": "https://kino-7e8db.firebaseio.com",
+    "project_id": "kino-7e8db",
+    "storage_bucket": "kino-7e8db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699336966358:android:ffa87ebfa31de3df16c977",
+        "android_client_info": {
+          "package_name": "com.example.kino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699336966358-4ebgr9oii8os99rfd02q2kehh82d789i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1d85ndZ6IejKkloMuaSBKwDxatdF0wA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699336966358-4ebgr9oii8os99rfd02q2kehh82d789i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

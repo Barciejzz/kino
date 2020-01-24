@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:background="@drawable/sample"
+
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/panel_administratora"
+        android:background="@color/colorPrimary"
+        android:text="Panel Administratora"
+        android:textAlignment="center"
+        android:textSize="20dp"/>
+
+
+    <Button
+        android:id="@+id/D_miasto"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Dodaj Miasto"
+        android:background="@color/colorPrimary"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="66dp"
+        android:layout_marginTop="60dp"/>
+
+    <Button
+        android:id="@+id/D_kino"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Dodaj Kino"
+        android:background="@color/colorPrimary"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="138dp"
+        android:layout_marginTop="120dp"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Dodaj Repertuar"
+        android:background="@color/colorPrimary"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="209dp"
+        android:layout_marginTop="180dp"/>
+
+    <Button
+        android:id="@+id/D_sale"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dodaj Sale"
+        android:background="@color/colorPrimary"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="283dp"
+        android:layout_marginTop="240dp"/>
+
+    <Button
+        android:id="@+id/D_zapowiedz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:text="Dodaj zapowiedź"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="355dp"
+        android:layout_marginTop="300dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/P_wyloguj"
+        android:text="Wyloguj"
+        android:background="@color/colorPrimary"
+        android:layout_marginTop="420dp"/>
+
+
+</FrameLayout>

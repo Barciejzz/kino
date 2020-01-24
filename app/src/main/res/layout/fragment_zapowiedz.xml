@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ZapowiedzFragment"
+    android:background="@drawable/sample">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:layout_width="199dp"
+            android:layout_height="133dp"
+            android:background="@drawable/endga"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Avengers: Endgame"
+            android:textColor="@color/tw__solid_white"
+            android:textSize="20dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="220dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Akcja, Sci-Fi, 185 min"
+            android:textColor="@color/tw__solid_white"
+            android:textSize="10dp"
+            android:layout_marginTop="45dp"
+            android:layout_marginLeft="220dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Po wymazaniu połowy życia we Wszechświecie przez Thanosa Avengersi starają się zrobić wszystko, co konieczne, aby pokonać szalonego tytana."
+            android:textColor="@color/tw__solid_white"
+            android:textSize="10dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginLeft="220dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Data premiery: 25 kwietnia"
+            android:textColor="@color/tw__solid_white"
+            android:textSize="10dp"
+            android:layout_marginTop="130dp"
+            android:layout_marginLeft="220dp"/>
+
+
+        <ImageView
+            android:layout_width="199dp"
+            android:layout_height="133dp"
+            android:background="@drawable/avata"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="180dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Avatar"
+            android:textColor="@color/tw__solid_white"
+            android:textSize="20dp"
+            android:layout_marginTop="180dp"
+            android:layout_marginLeft="220dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sci-Fi, 162 min"
+            android:textColor="@color/tw__solid_white"
+            android:textSize="10dp"
+            android:layout_marginTop="210dp"
+            android:layout_marginLeft="220dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jake, sparaliżowany były komandos, zostaje wysłany na planetę Pandora, gdzie zaprzyjaźnia się z lokalną społecznością i postanawia jej pomóc."
+            android:textColor="@color/tw__solid_white"
+            android:textSize="10dp"
+            android:layout_marginTop="230dp"
+            android:layout_marginLeft="220dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Data premiery: 15 Lipiec"
+            android:textColor="@color/tw__solid_white"
+            android:textSize="10dp"
+            android:layout_marginTop="290dp"
+            android:layout_marginLeft="220dp" />
+
+        <ImageView
+            android:layout_width="199dp"
+            android:layout_height="133dp"
+            android:background="@drawable/jum"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="340dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jumanji"
+            android:textColor="@color/tw__solid_white"
+            android:textSize="20dp"
+            android:layout_marginTop="340dp"
+            android:layout_marginLeft="220dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Przygodowy, fantasy, 119 min"
+            android:textColor="@color/tw__solid_white"
+            android:textSize="10dp"
+            android:layout_marginTop="370dp"
+            android:layout_marginLeft="220dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Czworo przyjaciół odkrywa starą grę, która przenosi ich w świat dżungli. Aby powrócić do rzeczywistości, muszą stawić czoło niebezpiecznym przygodom."
+            android:textColor="@color/tw__solid_white"
+            android:textSize="10dp"
+            android:layout_marginTop="390dp"
+            android:layout_marginLeft="220dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Data premiery: 20 Wrześień"
+            android:textColor="@color/tw__solid_white"
+            android:textSize="10dp"
+            android:layout_marginTop="450dp"
+            android:layout_marginLeft="220dp" />
+
+    </RelativeLayout>
+
+
+
+</FrameLayout>

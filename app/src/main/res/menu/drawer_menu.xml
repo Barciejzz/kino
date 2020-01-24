@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_zapowiedz"
+            android:icon="@drawable/ic_zapowiedz"
+            android:title="Zapowiedź" />
+        <item
+            android:id="@+id/nav_rapaciu"
+            android:icon="@drawable/ic_repertuar"
+            android:title="Repertuar" />
+        <item
+            android:id="@+id/nav_cennik"
+            android:icon="@drawable/ic_cennik"
+            android:title="Cennik" />
+        <item
+            android:id="@+id/nav_ustawienia"
+            android:icon="@drawable/ic_ustawienia"
+            android:title="Ustawienia" />
+        <item
+            android:id="@+id/nav_konto"
+            android:icon="@drawable/ic_konto"
+            android:title="Logowanie" />
+
+    </group>
+
+
+</menu>
